@@ -1,7 +1,7 @@
 # Item-Catalog
 Udacity Item Catalog project
 ## Project Overview
-This project is for develop an application that provides a list of items within a variety of categories as well as provide a user registration and authentication system(googel). Registered users will have the ability to post, edit and delete their own prodact.
+This project is for developing an application that provides a list of items within a variety of categories as well as provide a user registration and authentication system(googel). Registered users will have the ability to post, edit and delete their own prodact.
 ## Why This Project?
 Modern web applications perform a variety of functions and provide amazing features and utilities to their users; but deep down, it’s really all just creating, reading, updating and deleting data. **This project** is for combine learning  knowledge on building dynamic websites with persistent data storage to create a web application that provides a compelling service to your users.
 ## How to complete this project?
