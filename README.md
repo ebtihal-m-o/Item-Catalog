@@ -8,7 +8,7 @@ Modern web applications perform a variety of functions and provide amazing featu
  1.  Install [Vagrant](https://www.vagrantup.com/downloads.html) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
  2.  Clone the [fullstack-nanodegree-vm](https://github.com/udacity/fullstack-nanodegree-vm) .
  3.  Launch the Vagrant VM (vagrant up).
- 4.  Write your Flask application locally in the vagrant/catalog directory (which will automatically be synced to /vagrant/catalog within the VM).
+ 4.  Write your Flask application locally in the vagrant/catalog directory .
  5.  Run your application within the VM (vagrant/catalog/application.py).
  6.  Access and test your application by visiting  [http://localhost:5000](http://localhost:5000/)  locally.
 ## Using Google Login
